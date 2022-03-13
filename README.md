@@ -65,5 +65,6 @@
 在整体目标的推动中，我也会推出一系列go组合拳相关的内容其中包含了go的调度模型，各个数据结构的底层实现，内存分配，垃圾回收等，助力你更深层次的理解go语言。
 
 
-![qrcode_for_gh_83255ce34399_430.jpg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/372bd92c599e4fb7b6b3f73bcd2d0fab~tplv-k3u1fbpfcp-watermark.image?)
+![qrcode_for_gh_83255ce34399_344](https://user-images.githubusercontent.com/5572372/158062685-63b49e0b-92ed-477c-8de1-099fab8e50ab.jpg)
+
 
