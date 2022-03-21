@@ -10,7 +10,7 @@ func main() {
 	http.HandleFunc("/blog/add", controller.AddBlog)
 	http.HandleFunc("/blog/list", controller.ListBlog)
 
-	err := http.ListenAndServe(":8082", nil)
+	err := http.ListenAndServe(":8080", nil)
 	if err != nil {
 		fmt.Printf("%v", err)
 	}
